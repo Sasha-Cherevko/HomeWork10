@@ -1,3 +1,5 @@
+//Нарисовть шар который сам двигается и отбивается от краев экрана
+//Нарисовать несколько шаров которые двигаются, отбиваются от краев и друг от друга
 package chrvk.JavaElementary.hw10.task2;
 
 import chrvk.JavaElementary.hw10.task2.paint.Board;

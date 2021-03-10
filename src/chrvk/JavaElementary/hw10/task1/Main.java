@@ -1,3 +1,4 @@
+//Нарисовать простую сцену - домик, солнце
 package chrvk.JavaElementary.hw10.task1;
 
 import javafx.application.Application;
