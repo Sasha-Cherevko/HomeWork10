@@ -1,4 +1,4 @@
-package task1;
+package chrvk.JavaElementary.hw10.task1;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -8,7 +8,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
-public class Main extends Application  {
+public class Main extends Application {
 
     private static final int BOARD_WIDTH = 600;
     private static final int BOARD_HEIGHT = 500;
