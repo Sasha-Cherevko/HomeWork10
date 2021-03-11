@@ -1,10 +1,10 @@
 //Нарисовть шар который сам двигается и отбивается от краев экрана
 //Нарисовать несколько шаров которые двигаются, отбиваются от краев и друг от друга
-package chrvk.JavaElementary.hw10.task2;
+package chrvk.javaelementary.hw10.task2;
 
-import chrvk.JavaElementary.hw10.task2.paint.Board;
-import chrvk.JavaElementary.hw10.task2.paint.DisplayDriver;
-import chrvk.JavaElementary.hw10.task2.platform.DisplayDriverImpl;
+import chrvk.javaelementary.hw10.task2.paint.Board;
+import chrvk.javaelementary.hw10.task2.paint.DisplayDriver;
+import chrvk.javaelementary.hw10.task2.platform.DisplayDriverImpl;
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.scene.Scene;

@@ -1,7 +1,7 @@
-package chrvk.JavaElementary.hw10.task2.paint;
+package chrvk.javaelementary.hw10.task2.paint;
 
-import chrvk.JavaElementary.hw10.task2.paint.shapes.CircleShape;
-import chrvk.JavaElementary.hw10.task2.paint.shapes.Shape;
+import chrvk.javaelementary.hw10.task2.paint.shapes.CircleShape;
+import chrvk.javaelementary.hw10.task2.paint.shapes.Shape;
 
 import java.util.ArrayList;
 import java.util.List;

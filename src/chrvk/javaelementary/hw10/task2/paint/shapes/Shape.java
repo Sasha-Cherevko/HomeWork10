@@ -1,4 +1,4 @@
-package chrvk.JavaElementary.hw10.task2.paint.shapes;
+package chrvk.javaelementary.hw10.task2.paint.shapes;
 
 public interface Shape {
     void draw();

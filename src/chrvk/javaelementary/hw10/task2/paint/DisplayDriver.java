@@ -1,4 +1,4 @@
-package chrvk.JavaElementary.hw10.task2.paint;
+package chrvk.javaelementary.hw10.task2.paint;
 
 public interface DisplayDriver {
     void setColor(String hex);

@@ -1,8 +1,8 @@
-package chrvk.JavaElementary.hw10.task2.platform;
+package chrvk.javaelementary.hw10.task2.platform;
 
+import chrvk.javaelementary.hw10.task2.paint.DisplayDriver;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
-import chrvk.JavaElementary.hw10.task2.paint.DisplayDriver;
 
 public class DisplayDriverImpl implements DisplayDriver {
 
